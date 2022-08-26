@@ -1,0 +1,84 @@
+{
+  "posts": [],
+  "signupUsers": [
+    {
+      "email": "globoinstitute@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "signupStudents": [
+    {
+      "id": "1",
+      "name": "suraj",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "mobile": "9876544"
+    },
+    {
+      "id": "a3SRA3r",
+      "fullname": "shubham",
+      "email": "shubham123@gmail.com",
+      "password": "123456",
+      "mobile": 9876543210
+    },
+    {
+      "id": "bB2okzd",
+      "fullname": "suraj",
+      "email": "suraj@gmail.com",
+      "password": "123456",
+      "mobile": 987654
+    },
+    {
+      "id": "FPtbn0q",
+      "fullname": "kaushar",
+      "email": "kaushar@gmail.com",
+      "password": "123456",
+      "mobile": 987765
+    },
+    {
+      "id": "WjdULCt",
+      "fullname": "shubham srivastav",
+      "email": "shubhamsri@gmail.com",
+      "password": "shubham1234",
+      "mobile": 9878787877
+    },
+    {
+      "id": "KFRt8x5",
+      "fullname": "suraj",
+      "email": "suraj123@gmail.com",
+      "password": "123456",
+      "mobile": 98766554
+    },
+    {
+      "id": "EYAo_Al",
+      "fullname": "Suraj patil",
+      "email": "surajp@gmail.com",
+      "password": "123456",
+      "mobile": 987878787
+    },
+    {
+      "id": "mdF35CZ",
+      "fullname": "ssss",
+      "email": "ssss@gmail.com",
+      "password": "1234",
+      "mobile": 9999
+    },
+    {
+      "id": "Y-5y7Vd",
+      "fullname": "Purushotham Malli",
+      "email": "purumalli468@gmail.com",
+      "password": "123456",
+      "mobile": 7097637962
+    },
+    {
+      "id": "x7EVxAa",
+      "fullname": "purush",
+      "email": "purumalli468@gmail.com",
+      "password": "123456",
+      "mobile": 7097637962
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

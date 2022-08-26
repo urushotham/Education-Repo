@@ -1,0 +1,28 @@
+.animation{
+ 
+  background-color: azure;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+h1{
+    color:black;
+}
+
+@keyframes example {
+  0% {
+    background-color: lightcyan;
+  }
+
+  25% {
+    background-color: lightyellow;
+  }
+
+  50% {
+    background-color: lightcyan;
+  }
+
+  100% {
+    background-color: lightgoldenrodyellow;
+  }
+}
